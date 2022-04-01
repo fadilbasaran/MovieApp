@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'categories.dart';
 import 'genres.dart';
-
 import 'movie_carousel.dart';
 
 class Body extends StatelessWidget {

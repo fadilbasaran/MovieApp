@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:movie_info_app/models/movie.dart';
+import 'package:movie_info_app/screens/detail/body_details.dart';
 
 class DetailsScreen extends StatelessWidget {
   final Movie movie;
@@ -7,7 +8,8 @@ class DetailsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Size size = MediaQuery.of(context).size;
-    return const Scaffold();
+    return Scaffold(
+      body: BodyDetails(movie: movie),
+    );
   }
 }

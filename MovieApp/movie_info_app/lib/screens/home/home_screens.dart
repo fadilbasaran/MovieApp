@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 import 'package:movie_info_app/constants.dart';
-import 'package:movie_info_app/screens/home/components/body.dart';
+import 'package:movie_info_app/screens/home/components/body_home.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
