@@ -1,15 +1,11 @@
-
-
 import 'package:flutter/material.dart';
 
 import '../../../constants.dart';
 import '../../../models/movie.dart';
 
 class TitleDurationAndFabBtn extends StatelessWidget {
-  const TitleDurationAndFabBtn({
-    Key? key,
-    required this.movie,
-  }) : super(key: key);
+  const TitleDurationAndFabBtn({Key? key, required this.movie})
+      : super(key: key);
 
   final Movie movie;
 

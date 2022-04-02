@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -6,11 +5,8 @@ import '../../../constants.dart';
 import '../../../models/movie.dart';
 
 class BackDropAndRating extends StatelessWidget {
-  const BackDropAndRating({
-    Key? key,
-    required this.size,
-    required this.movie,
-  }) : super(key: key);
+  const BackDropAndRating({Key? key, required this.size, required this.movie})
+      : super(key: key);
 
   final Size size;
   final Movie movie;
@@ -26,8 +22,8 @@ class BackDropAndRating extends StatelessWidget {
             Container(
               height: size.height * 0.4 - 50,
               decoration: BoxDecoration(
-                borderRadius: const BorderRadius.only(
-                    bottomLeft: Radius.circular(50)),
+                borderRadius:
+                    const BorderRadius.only(bottomLeft: Radius.circular(50)),
                 image: DecorationImage(
                   fit: BoxFit.cover,
                   image: AssetImage('${movie.backdrop}'),

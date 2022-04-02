@@ -9,6 +9,7 @@ const kFillStarColor = Color(0xFFFCC419);
 const kDefaultPadding = 20.0;
 
 
+
 const kDefaultShadow = BoxShadow(
   offset: Offset(0, 4),
   blurRadius: 4,
