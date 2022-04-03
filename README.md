@@ -1,16 +1,31 @@
-# movie_info_app
+<h1 align="center">MoviApp Mobile Application</h1>
 
-A new Flutter project.
+<h3 align="center">
+   :dart: About : 
+  With this application,You can learn about movies in the app.
+</h3>
 
-## Getting Started
+### Screenshots     
+<img src="images/Screenshot for github/flutter_pokedex_1.jpg" height="300em" /> <img src="images/Screenshot for github/flutter_pokedex_2.jpg" height="300em" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## :rocket: Technologies ##
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The following tools were used in this project:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [Vs Code](https://code.visualstudio.com/)
+- [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAyJOBBhDCARIsAJG2h5eL8TqlTcYWCGcBIPw1fvDCI8-HFaYlvzdfH8GUd_-j9kX9SbFTTJkaAo3MEALw_wcB&gclsrc=aw.ds)
+
+```bash
+# Clone this project
+$ git clone https://github.com/fadilbasaran/PokedexApp
+# Access
+$ cd flutter_pokedex
+# Pull dependencies
+$ flutter pub get
+# Run the project (emulator or physical device needs to be connected first)
+$ flutter run
+# Build an apk
+$ flutter build apk
