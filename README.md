@@ -6,9 +6,10 @@
 </h3>
 
 ### Screenshots     
-<img src="images/Screenshot for github/flutter_pokedex_1.jpg" height="300em" /> <img src="images/Screenshot for github/flutter_pokedex_2.jpg" height="300em" />
+<img src="assets/screenshots/MovieApp_1.jpg" height="300em" /> <img src="assets/screenshots/MovieApp_2.jpg" height="300em" />
 
-
+### Screenrecord
+<img src="assets/screenshots/MovieApp_Screenrecord.gif" height="600em" />
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
