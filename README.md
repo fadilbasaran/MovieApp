@@ -21,9 +21,9 @@ The following tools were used in this project:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/fadilbasaran/PokedexApp
+$ git clone https://github.com/fadilbasaran/MovieApp
 # Access
-$ cd flutter_pokedex
+$ cd MovieApp
 # Pull dependencies
 $ flutter pub get
 # Run the project (emulator or physical device needs to be connected first)
