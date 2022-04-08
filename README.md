@@ -6,7 +6,7 @@
 </h3>
 
 ### Screenshots     
-<img src="assets/screenshots/MovieApp_1.jpg" height="300em" /> <img src="assets/screenshots/MovieApp_2.jpg" height="300em" />
+<img src="assets/screenshots/MovieApp_1.jpg" width="32%" /> <img src="assets/screenshots/MovieApp_2.jpg" width="32%" />
 
 ### Screenrecord
 <img src="assets/screenshots/MovieApp_Screenrecord.gif" height="600em" />
