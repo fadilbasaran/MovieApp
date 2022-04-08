@@ -8,7 +8,7 @@
 ### Screenshots     
 <img src="assets/screenshots/MovieApp_1.jpg" width="32%" /> <img src="assets/screenshots/MovieApp_2.jpg" width="32%" />
 
-### Screenrecord
+### Screen Recording
 <img src="assets/screenshots/MovieApp_Screenrecord.gif" width="32%" />
 ## :rocket: Technologies ##
 
