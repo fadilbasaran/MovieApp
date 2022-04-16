@@ -2,7 +2,7 @@
 
 <h3 align="center">
    :dart: About : 
-  With  application,You can learn about movies in the app.
+  With this application,You can learn about movies in the app.
 </h3>
 
 ### Screenshots     
