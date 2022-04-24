@@ -10,7 +10,7 @@
 
 ### Screen Recording
 <img src="assets/screenshots/MovieApp_Screenrecord.gif" width="32%" />
-## :rocket: Technologies ##
+## :rocket: Technologies
 
 The following tools were used in this project:
 
